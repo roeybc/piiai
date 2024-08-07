@@ -1,0 +1,34 @@
+This project makes use of the following third-party libraries, which are subject to their respective licenses. Full license texts for these libraries can be found in the `licenses` directory.
+
+1. **opencv-python** - MIT License
+   - Repository: https://github.com/opencv/opencv-python
+
+2. **mediapipe** - Apache License 2.0
+   - Repository: https://github.com/google/mediapipe
+
+3. **torch** - BSD 3-Clause License
+   - Repository: https://github.com/pytorch/pytorch
+
+4. **torchaudio** - BSD 2-Clause License
+   - Repository: https://github.com/pytorch/audio
+
+5. **transformers** - Apache License 2.0
+   - Repository: https://github.com/huggingface/transformers
+
+6. **torchvision** - BSD 3-Clause License
+   - Repository: https://github.com/pytorch/vision
+
+7. **presidio-analyzer** - MIT License
+   - Repository: https://github.com/microsoft/presidio
+
+8. **presidio-anonymizer** - MIT License
+   - Repository: https://github.com/microsoft/presidio
+
+9. **openai-whisper** - MIT License
+   - Repository: https://github.com/openai/whisper
+
+10. **pydub** - MIT License
+    - Repository: https://github.com/jiaaro/pydub
+
+11. **moviepy** - MIT License
+    - Repository: https://github.com/Zulko/moviepy

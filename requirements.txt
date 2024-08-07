@@ -1,0 +1,14 @@
+opencv-python
+mediapipe
+
+torch
+torchaudio
+transformers
+torchvision
+presidio-analyzer
+presidio-anonymizer
+
+openai-whisper
+pydub
+
+moviepy
